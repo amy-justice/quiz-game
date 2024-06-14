@@ -1,8 +1,7 @@
-# React + Vite
+# A Simple Quiz Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple quiz game I created to practice using React. It uses [The Trivia API](https://the-trivia-api.com/) to fetch questions.
 
-Currently, two official plugins are available:
+You can select how many questions you want to answer, the category you want and the difficulty of your questions. Enjoy!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live site preview](https://monumental-parfait-beb974.netlify.app/)
