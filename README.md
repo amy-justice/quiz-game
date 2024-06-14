@@ -4,4 +4,4 @@ This is a simple quiz game I created to practice using React. It uses [The Trivi
 
 You can select how many questions you want to answer, the category you want and the difficulty of your questions. Enjoy!
 
-[Live site preview](https://monumental-parfait-beb974.netlify.app/)
+See it in action on Netlify:[https://monumental-parfait-beb974.netlify.app/](https://monumental-parfait-beb974.netlify.app/)
