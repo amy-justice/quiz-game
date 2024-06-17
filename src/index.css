@@ -10,6 +10,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	font-family: 'Roboto', sans-serif;
+	overflow: none;
 }
 
 .quiz-container {
