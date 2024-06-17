@@ -147,3 +147,27 @@ body {
 .progress-chunk.grey {
 	background-color: #ccc;
 }
+
+@media (max-width: 675px) {
+	.quiz-container {
+		max-width: 100%;
+	}
+
+	.quiz-answer-container {
+		grid-template: repeat(1, 1fr) / repeat(1, 1fr);
+	}
+
+	.quiz-question {
+		font-size: 1.6em;
+	}
+
+	.quiz-answer {
+		width: 100%;
+		padding: 1.2em;
+		font-size: 1em;
+	}
+
+	.quiz-button {
+		font-size: 1em;
+	}
+}
